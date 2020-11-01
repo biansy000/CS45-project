@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Archlabs/project_4/project_4.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Archlabs/project_4/project_4.srcs/sim_1/new/Registers_tb.v,1593088420,verilog,,,,Registers_tb,,,,,,,,
+C:/Archlabs/project_4/project_4.srcs/sim_1/new/dataMemory_tb.v,1593089419,verilog,,,,dataMemory_tb,,,,,,,,
+C:/Archlabs/project_4/project_4.srcs/sim_1/new/signext_tb.v,1593088053,verilog,,,,signext_tb,,,,,,,,
+C:/Archlabs/project_4/project_4.srcs/sources_1/new/Registers.v,1591326875,verilog,,C:/Archlabs/project_4/project_4.srcs/sim_1/new/Registers_tb.v,,Registers,,,,,,,,
+C:/Archlabs/project_4/project_4.srcs/sources_1/new/dataMemory.v,1593089310,verilog,,C:/Archlabs/project_4/project_4.srcs/sim_1/new/dataMemory_tb.v,,dataMemory,,,,,,,,
+C:/Archlabs/project_4/project_4.srcs/sources_1/new/signext.v,1591412388,verilog,,C:/Archlabs/project_4/project_4.srcs/sim_1/new/signext_tb.v,,signext,,,,,,,,

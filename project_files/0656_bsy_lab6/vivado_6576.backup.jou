@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Jun 29 11:03:44 2020
+# Process ID: 6576
+# Current directory: C:/Archlabs/lab6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9608 C:\Archlabs\lab6\lab6.xpr
+# Log file: C:/Archlabs/lab6/vivado.log
+# Journal file: C:/Archlabs/lab6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Archlabs/lab6/lab6.xpr
+update_compile_order -fileset sources_1
+close [ open C:/Archlabs/lab6/lab6.srcs/sources_1/new/Register_write.v w ]
+add_files C:/Archlabs/lab6/lab6.srcs/sources_1/new/Register_write.v
+close [ open C:/Archlabs/lab6/lab6.srcs/sources_1/new/Register_read.v w ]
+add_files C:/Archlabs/lab6/lab6.srcs/sources_1/new/Register_read.v
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1

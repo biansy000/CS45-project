@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Top_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Top_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1177165355fs"></ZoomEndTime>
+      <Cursor1Time time="1500000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="141"></NameColumnWidth>
+      <ValueColumnWidth column_width="122"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="38" />
+   <wvobject fp_name="/Top_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/registers/regFile" type="array">
+      <obj_property name="ElementShortName">regFile[31:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">regFile[31:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/dataMemory/memFile" type="array">
+      <obj_property name="ElementShortName">memFile[31:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">memFile[31:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/registers/writeReg" type="array">
+      <obj_property name="ElementShortName">writeReg[4:0]</obj_property>
+      <obj_property name="ObjectShortName">writeReg[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/registers/regWrite" type="logic">
+      <obj_property name="ElementShortName">regWrite</obj_property>
+      <obj_property name="ObjectShortName">regWrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/isShift_IDEX" type="logic">
+      <obj_property name="ElementShortName">isShift_IDEX</obj_property>
+      <obj_property name="ObjectShortName">isShift_IDEX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/mainCtr/regWrite" type="logic">
+      <obj_property name="ElementShortName">regWrite</obj_property>
+      <obj_property name="ObjectShortName">regWrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/alu/aluRes" type="array">
+      <obj_property name="ElementShortName">aluRes[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluRes[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/alu/aluCtr" type="array">
+      <obj_property name="ElementShortName">aluCtr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">aluCtr[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/alu/input1" type="array">
+      <obj_property name="ElementShortName">input1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">input1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/alu/input2" type="array">
+      <obj_property name="ElementShortName">input2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">input2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/ALUCtrOut_IDEX" type="array">
+      <obj_property name="ElementShortName">ALUCtrOut_IDEX[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUCtrOut_IDEX[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/ALU_CTR_OUT" type="array">
+      <obj_property name="ElementShortName">ALU_CTR_OUT[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_CTR_OUT[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/aluCtr/ALUop" type="array">
+      <obj_property name="ElementShortName">ALUop[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUop[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/aluCtr/Funct" type="array">
+      <obj_property name="ElementShortName">Funct[5:0]</obj_property>
+      <obj_property name="ObjectShortName">Funct[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/WRITE_REG" type="array">
+      <obj_property name="ElementShortName">WRITE_REG[4:0]</obj_property>
+      <obj_property name="ObjectShortName">WRITE_REG[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/Branch_res" type="array">
+      <obj_property name="ElementShortName">Branch_res[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Branch_res[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/PC" type="array">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/JUMP" type="logic">
+      <obj_property name="ElementShortName">JUMP</obj_property>
+      <obj_property name="ObjectShortName">JUMP</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/BRANCH" type="array">
+      <obj_property name="ElementShortName">BRANCH[1:0]</obj_property>
+      <obj_property name="ObjectShortName">BRANCH[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/REG_DST" type="logic">
+      <obj_property name="ElementShortName">REG_DST</obj_property>
+      <obj_property name="ObjectShortName">REG_DST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/INST" type="array">
+      <obj_property name="ElementShortName">INST[31:0]</obj_property>
+      <obj_property name="ObjectShortName">INST[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/Inst_ID" type="array">
+      <obj_property name="ElementShortName">Inst_ID[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Inst_ID[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/STALL" type="logic">
+      <obj_property name="ElementShortName">STALL</obj_property>
+      <obj_property name="ObjectShortName">STALL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/FLUSH" type="logic">
+      <obj_property name="ElementShortName">FLUSH</obj_property>
+      <obj_property name="ObjectShortName">FLUSH</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/JUMP_ADDRESS" type="array">
+      <obj_property name="ElementShortName">JUMP_ADDRESS[31:0]</obj_property>
+      <obj_property name="ObjectShortName">JUMP_ADDRESS[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/PC_NEW" type="array">
+      <obj_property name="ElementShortName">PC_NEW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_NEW[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/ZERO" type="logic">
+      <obj_property name="ElementShortName">ZERO</obj_property>
+      <obj_property name="ObjectShortName">ZERO</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/READ_DATA1" type="array">
+      <obj_property name="ElementShortName">READ_DATA1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">READ_DATA1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/READ_DATA2" type="array">
+      <obj_property name="ElementShortName">READ_DATA2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">READ_DATA2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/ZERO1" type="logic">
+      <obj_property name="ElementShortName">ZERO1</obj_property>
+      <obj_property name="ObjectShortName">ZERO1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/Ext_data_IDEX" type="array">
+      <obj_property name="ElementShortName">Ext_data_IDEX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Ext_data_IDEX[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/RegWrite_IDEX" type="logic">
+      <obj_property name="ElementShortName">RegWrite_IDEX</obj_property>
+      <obj_property name="ObjectShortName">RegWrite_IDEX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/stalldetect/Stall" type="logic">
+      <obj_property name="ElementShortName">Stall</obj_property>
+      <obj_property name="ObjectShortName">Stall</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/stalldetect/stall" type="logic">
+      <obj_property name="ElementShortName">stall</obj_property>
+      <obj_property name="ObjectShortName">stall</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/stalldetect/needWrite" type="logic">
+      <obj_property name="ElementShortName">needWrite</obj_property>
+      <obj_property name="ObjectShortName">needWrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_tb/top/stalldetect/isLoad" type="logic">
+      <obj_property name="ElementShortName">isLoad</obj_property>
+      <obj_property name="ObjectShortName">isLoad</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,16 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Archlabs/lab6/lab6.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sim_1/new/Top_tb.v,1593698332,verilog,,,,Top_tb,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/ALU.v,1593676571,verilog,,C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/ALUCtr.v,,ALU,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/ALUCtr.v,1593696801,verilog,,C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/Ctr.v,,ALUCtr,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/Ctr.v,1593697639,verilog,,C:/Archlabs/lab6/lab6.srcs/sources_1/new/NeedFlush.v,,Ctr,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/Registers.v,1593681254,verilog,,C:/Archlabs/lab6/lab6.srcs/sources_1/new/Stall_detect.v,,Registers,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/dataMemory.v,1593677462,verilog,,C:/Archlabs/lab6/lab6.srcs/sources_1/new/isShift.v,,dataMemory,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/signext.v,1591412388,verilog,,C:/Archlabs/lab6/lab6.srcs/sim_1/new/Top_tb.v,,signext,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sources_1/new/NeedFlush.v,1593696360,verilog,,C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/Registers.v,,NeedFlush,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sources_1/new/Stall_detect.v,1593699570,verilog,,C:/Archlabs/lab6/lab6.srcs/sources_1/new/Top2.v,,Stall_detect,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sources_1/new/Top2.v,1593699301,verilog,,C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/dataMemory.v,,Top,,,,,,,,
+C:/Archlabs/lab6/lab6.srcs/sources_1/new/isShift.v,1593574098,verilog,,C:/Archlabs/lab6/lab6.srcs/sources_1/imports/lab34_code/signext.v,,IsShift,,,,,,,,
