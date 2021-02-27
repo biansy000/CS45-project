@@ -1,4 +1,4 @@
 # CS45-project
-The code for CS45 of SJTU.
+The code for CS45 of SJTU
 
-To bo done ...
+Will complete the readme.md soon ...
